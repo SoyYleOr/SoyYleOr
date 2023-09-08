@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoyYleOr
 - 👀 I’m interested in programacion
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning promramacion 
 - 💞️ I’m looking to collaborate on java 
 - 📫 How to reach me 
 
